@@ -1,2 +1,1 @@
-# Logistic-Cost-Verification-Project
-Data analytics project to validate courier billing using Python by applying weight slab calculation, delivery zone mapping, and rate card logic.
+This project focuses on verifying and analyzing logistics costs using data analysis techniques. The dataset was cleaned and processed using Python and Excel to ensure accurate calculations and consistency. Exploratory data analysis was performed to understand patterns in transportation costs, delivery distances, and operational expenses. Visualizations and dashboards were created to highlight cost variations and identify potential areas for optimization, helping businesses make more informed logistics and supply chain decisions.
